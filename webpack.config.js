@@ -33,7 +33,7 @@ var LiveReloadPlugin = require('webpack-livereload-plugin');
        WeatherDisplay: 'app/components/WeatherDisplay.jsx',
        openWeatherMap: 'app/api/openWeatherMap.jsx',
        ErrorModal: 'app/components/ErrorModal.jsx',
-       applicationStyles: 'app/styles/app.css'
+       applicationStyles: 'app/styles/app.scss'
      },
      extensions: ['', '.js', '.jsx']
    },
